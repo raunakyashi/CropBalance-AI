@@ -1,0 +1,10 @@
+id,Year,Crop_Name,Previous_Year_High_Price,Rainfall_Level,Total_Area_Sown,Final_Market_Price
+1,2020,Onion,5000,High,1200,3200
+2,2020,Wheat,2200,Medium,3000,2100
+3,2020,Soyabean,4200,Low,1800,4500
+4,2021,Onion,4800,Medium,1400,3000
+5,2021,Wheat,2100,High,3300,1900
+6,2021,Soyabean,4600,Low,1600,4800
+7,2022,Onion,5200,Low,1000,3500
+8,2022,Wheat,2300,Medium,2800,2200
+9,2022,Soyabean,4400,High,2000,4000
